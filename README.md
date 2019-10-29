@@ -43,11 +43,11 @@
 
 给初学者的几个建议：
 
-- Make English as your working language.
-- Practice makes perfect.
-- All experience comes from mistakes.
-- Don't be one of the leeches.
-- Either stand out or kicked out.
+- Make English as your working language. --使用英语作为工作语言
+- Practice makes perfect.  --熟能生巧
+- All experience comes from mistakes. --所有经验都来自错误
+- Don't be one of the leeches.  --不要成为水之一
+- Either stand out or kicked out. --脱颖而出或被踢出
 
 ### Day01~15 - [Python语言基础](./Day01-15)
 
