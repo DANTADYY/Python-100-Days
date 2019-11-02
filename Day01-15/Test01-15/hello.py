@@ -11,15 +11,15 @@ Version: 0.1
 Author: 戴琰
 """
 
-a = 321
-b = 123
-print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
-print(a // b)
-print(a % b)
-print(a ** b)
+# a = 321
+# b = 123
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a // b)
+# print(a % b)
+# print(a ** b)
 
 
 e = 123
@@ -32,3 +32,13 @@ print(type(f)),# <class 'float'>
 print(type(g)),# <class 'complex'>
 print(type(h)),# <class 'string'>
 print(type(i)),# <class 'bool'>
+
+a = int(input('a = '))
+b = int(input('b = '))
+print('%d + %d = %d' % (a, b, a + b))
+print('%d - %d = %d' % (a, b, a - b))
+print('%d * %d = %d' % (a, b, a * b))
+print('%d / %d = %f' % (a, b, a / b))
+print('%d // %d = %d' % (a, b, a // b))
+print('%d %% %d = %d' % (a, b, a % b))
+print('%d ** %d = %d' % (a, b, a ** b))
