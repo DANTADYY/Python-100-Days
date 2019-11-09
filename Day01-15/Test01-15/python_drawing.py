@@ -1,6 +1,9 @@
+'''
+动态画心
+'''
 import turtle
 
-turtle.bgcolor("black")
+turtle.bgcolor("silver")
 turtle.pensize(2)
 sizeh = 1.2
 
