@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Day01-15",
+    "\\Day01-15\\code",
+    "\\Day01-15\\code\\Day03",
+    "\\Day01-15\\Test01-15"
   ],
+  "SelectedNode": "\\Day01-15\\code\\Day03\\conversion.py",
   "PreviewInSolutionExplorer": false
 }
